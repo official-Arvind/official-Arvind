@@ -25,12 +25,12 @@
 
 ```js
 const arvind = {
-    location: "India \U0001F1EE\U0001F1F3",
+    location: "India 🇮🇳",
     company: "Jigar Corporation Pvt. Ltd.",
     title: "Founder & Chief Everything Officer",
     pronouns: "He / Him / Bhai",
 
-    superpower: "Turning \u2615 chai into production-ready code",
+    superpower: "Turning ☕ chai into production-ready code",
     weakness: "Cannot say 'no' to a good side project at 3 AM",
 
     currentMood: "Rooting phones that think they're safe",
@@ -52,23 +52,23 @@ const arvind = {
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- \U0001F3E2 **Founder** at **Jigar Corporation Pvt. Ltd.** \u2014 *Yes, it's as epic as it sounds*
-- \U0001F513 **Android Power User** \u2014 *If it has a bootloader, I've unlocked it*
-- \U0001F9EC **First Open Source PR** \u2014 [Native OEM Face Unlock for biometric-app-lock](https://github.com/hxreborn/biometric-app-lock/pull/50) *(Merged \u2705)*
-- \U0001F528 **Builder of** \u2014 Backup suites, AI tools, MCP servers, spyware detectors, and things that make phones go brrr
-- \U0001F3AF **The Perfectionist** \u2014 *My code reviews take longer than the actual coding*
-- \U0001F1EE\U0001F1F3 **Proudly Indian** \u2014 *My code runs on chai, not coffee* \u2615
+- 🏢 **Founder** at **Jigar Corporation Pvt. Ltd.** — *Yes, it's as epic as it sounds*
+- 🔓 **Android Power User** — *If it has a bootloader, I've unlocked it*
+- 🧬 **First Open Source PR** — [Native OEM Face Unlock for biometric-app-lock](https://github.com/hxreborn/biometric-app-lock/pull/50) *(Merged ✅)*
+- 🔨 **Builder of** — Backup suites, AI tools, MCP servers, spyware detectors, and things that make phones go brrr
+- 🎯 **The Perfectionist** — *My code reviews take longer than the actual coding*
+- 🇮🇳 **Proudly Indian** — *My code runs on chai, not coffee* ☕
 
 <br clear="right"/>
 
 ---
 
-## \U0001F3D7\uFE0F Jigar Corp \u2014 Flagship Arsenal
+## 🏗️ Jigar Corp — Flagship Arsenal
 
 <div align="center">
 
 > *"We don't just build apps. We build apps that make other apps feel insecure."*
-> \u2014 Arvind Ji, probably at 4 AM
+> — Arvind Ji, probably at 4 AM
 
 </div>
 
@@ -76,66 +76,66 @@ const arvind = {
 <tr>
 <td width="50%" valign="top">
 
-### \U0001F512 Security & Root
+### 🔒 Security & Root
 | Project | What it Does |
 |---------|-------------|
-| [**biometric-app-lock**](https://github.com/official-Arvind/biometric-app-lock) | Xposed module for biometric app locking \u2014 *contributed native OEM face unlock for Samsung & Xiaomi* |
+| [**biometric-app-lock**](https://github.com/official-Arvind/biometric-app-lock) | Xposed module for biometric app locking — *contributed native OEM face unlock for Samsung & Xiaomi* |
 | [**Zygisk-Assistant**](https://github.com/official-Arvind/Zygisk-Assistant) | Hide root from nosy apps. *They'll never know.* |
-| [**Morphe-AutoBuilds**](https://github.com/official-Arvind/Morphe-AutoBuilds) | Auto-builds Morphe APKs & modules every 24hrs. *CI/CD but make it spicy* \U0001F336\uFE0F |
+| [**Morphe-AutoBuilds**](https://github.com/official-Arvind/Morphe-AutoBuilds) | Auto-builds Morphe APKs & modules every 24hrs. *CI/CD but make it spicy* 🌶️ |
 
 </td>
 <td width="50%" valign="top">
 
-### \U0001F527 Power Tools
+### 🔧 Power Tools
 | Project | What it Does |
 |---------|-------------|
-| [**Jigar-Backup**](https://github.com/official-Arvind/Jigar-Backup) | God Mode backup suite with Zstandard compression & SMB sync. *Backup so fast it's illegal* \u26A1 |
+| [**Jigar-Backup**](https://github.com/official-Arvind/Jigar-Backup) | God Mode backup suite with Zstandard compression & SMB sync. *Backup so fast it's illegal* ⚡ |
 | [**jigar-tools**](https://github.com/official-Arvind/jigar-tools) | The world's most aggressive backup & restore suite. *Free forever, fast forever* |
-| [**Fucking-Fast-Downloader**](https://github.com/official-Arvind/Fucking-Fast-Downloader) | It's in the name. *No further explanation needed* \U0001F680 |
+| [**Fucking-Fast-Downloader**](https://github.com/official-Arvind/Fucking-Fast-Downloader) | It's in the name. *No further explanation needed* 🚀 |
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### \U0001F916 AI & Automation
+### 🤖 AI & Automation
 | Project | What it Does |
 |---------|-------------|
-| [**instagram-mcp**](https://github.com/official-Arvind/instagram-mcp) | \u2B50 68+ tools MCP Server for Instagram via AI agents. *4 stars and counting!* |
+| [**instagram-mcp**](https://github.com/official-Arvind/instagram-mcp) | ⭐ 68+ tools MCP Server for Instagram via AI agents. *4 stars and counting!* |
 | [**director-ai**](https://github.com/official-Arvind/director-ai) | Dual-AI storytelling app powered by Gemini. *When one AI isn't enough* |
 | [**docpurge-ai**](https://github.com/official-Arvind/docpurge-ai) | Surgical PDF watermark removal. *100% browser-native. Zero uploads.* |
 
 </td>
 <td width="50%" valign="top">
 
-### \U0001F3B5 Media & Apps
+### 🎵 Media & Apps
 | Project | What it Does |
 |---------|-------------|
-| [**Musify**](https://github.com/official-Arvind/Musify) | YouTube Music client for Android. *Because premium is overrated* \U0001F3B6 |
+| [**Musify**](https://github.com/official-Arvind/Musify) | YouTube Music client for Android. *Because premium is overrated* 🎶 |
 | [**Metrolist_X**](https://github.com/official-Arvind/Metrolist_X) | Enhanced YouTube Music frontend. *Same vibe, extra features* |
-| [**UPIPaymentAlert**](https://github.com/official-Arvind/UPIPaymentAlert) | Auto UPI voice announcements. *"Paytm se \u20B9500 aaya hai!"* \U0001F4E2 |
+| [**UPIPaymentAlert**](https://github.com/official-Arvind/UPIPaymentAlert) | Auto UPI voice announcements. *"Paytm se ₹500 aaya hai!"* 📢 |
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### \U0001F4BB Creative & Web
+### 💻 Creative & Web
 | Project | What it Does |
 |---------|-------------|
-| [**PhoneSpeakerMic**](https://github.com/official-Arvind/PhoneSpeakerMic) | Use phone as PC mic & speaker \u2014 5ms latency! *Your phone is now a sound card* \U0001F399\uFE0F |
+| [**PhoneSpeakerMic**](https://github.com/official-Arvind/PhoneSpeakerMic) | Use phone as PC mic & speaker — 5ms latency! *Your phone is now a sound card* 🎙️ |
 | [**WIN-B_M**](https://github.com/official-Arvind/WIN-B_M) | Custom Windows boot logo engine with matrix rain animation. *Because default is boring* |
 | [**GalaxyBudsClient**](https://github.com/official-Arvind/GalaxyBudsClient) | Free compiled Android APKs for Galaxy Buds management |
 
 </td>
 <td width="50%" valign="top">
 
-### \U0001F31F Dream Projects
+### 🌟 Dream Projects
 | Project | What it Does |
 |---------|-------------|
-| **Vision-OS** | \U0001F510 *The Dream Project* \u2014 something big is cooking... |
-| **Crown-Face** | \U0001F510 AI-powered facial feature analysis for perfect hairstyle recommendations |
-| **3d-Home** | \U0001F510 Experience & customize your home in full 3D |
+| **Vision-OS** | 🔐 *The Dream Project* — something big is cooking... |
+| **Crown-Face** | 🔐 AI-powered facial feature analysis for perfect hairstyle recommendations |
+| **3d-Home** | 🔐 Experience & customize your home in full 3D |
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ const arvind = {
 
 ---
 
-## \U0001F9F0 Tech Stack \u2014 *"If it exists, I've probably used it"*
+## 🧰 Tech Stack — *"If it exists, I've probably used it"*
 
 <div align="center">
 
@@ -166,7 +166,7 @@ const arvind = {
 
 ---
 
-## \U0001F4CA GitHub Stats \u2014 *"Numbers don't lie, but they do flex"*
+## 📊 GitHub Stats — *"Numbers don't lie, but they do flex"*
 
 <div align="center">
 
@@ -181,7 +181,7 @@ const arvind = {
 
 ---
 
-## \U0001F3C6 Achievement Unlocked
+## 🏆 Achievement Unlocked
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=official-Arvind&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
@@ -189,7 +189,7 @@ const arvind = {
 
 ---
 
-## \U0001F40D Watch My Contributions Get Devoured
+## 🐍 Watch My Contributions Get Devoured
 
 <div align="center">
 <picture>
@@ -201,7 +201,7 @@ const arvind = {
 
 ---
 
-## \U0001F4C8 Contribution Graph \u2014 *"Every Green Square = One Less Hour of Sleep"*
+## 📈 Contribution Graph — *"Every Green Square = One Less Hour of Sleep"*
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=official-Arvind&bg_color=0d1117&color=FF9933&line=FF6B35&point=138808&area=true&area_color=FF993333&hide_border=true" alt="Activity Graph"/>
@@ -209,32 +209,32 @@ const arvind = {
 
 ---
 
-## \U0001F3AF The Perfectionist's Daily Routine
+## 🎯 The Perfectionist's Daily Routine
 
 ```
-06:00 AM  \u23F0  Alarm goes off
-06:01 AM  \U0001F634  "5 more minutes..." (hits snooze)
-09:00 AM  \u2615  Wake up. Chai. Check GitHub notifications.
-09:30 AM  \U0001F4BB  Start "quick fix" that becomes a 12-hour refactor
-12:00 PM  \U0001F35B  Lunch break (still thinking about that bug)
-12:15 PM  \U0001F41B  "Found it!" (narrator: he didn't find it)
-03:00 PM  \U0001F527  Actually found it. It was a missing semicolon.
-05:00 PM  \U0001F680  Push to production. What could go wrong?
-05:01 PM  \U0001F525  Everything went wrong.
-05:30 PM  \U0001FA79  Hotfix deployed. Crisis averted. Chai break.
-08:00 PM  \U0001F4A1  "I have an AMAZING idea for a new project"
-09:00 PM  \U0001F4C1  Creates new repo. Writes README first (obviously).
-11:00 PM  \U0001F319  "Just one more commit..."
-03:00 AM  \U0001F635  Still coding. Chai count: \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588 8
-04:00 AM  \U0001F4A4  Falls asleep on keyboard. Dreams in Kotlin.
+06:00 AM  ⏰  Alarm goes off
+06:01 AM  😴  "5 more minutes..." (hits snooze)
+09:00 AM  ☕  Wake up. Chai. Check GitHub notifications.
+09:30 AM  💻  Start "quick fix" that becomes a 12-hour refactor
+12:00 PM  🍛  Lunch break (still thinking about that bug)
+12:15 PM  🐛  "Found it!" (narrator: he didn't find it)
+03:00 PM  🔧  Actually found it. It was a missing semicolon.
+05:00 PM  🚀  Push to production. What could go wrong?
+05:01 PM  🔥  Everything went wrong.
+05:30 PM  🩹  Hotfix deployed. Crisis averted. Chai break.
+08:00 PM  💡  "I have an AMAZING idea for a new project"
+09:00 PM  📁  Creates new repo. Writes README first (obviously).
+11:00 PM  🌙  "Just one more commit..."
+03:00 AM  😵  Still coding. Chai count: ████████ 8
+04:00 AM  💤  Falls asleep on keyboard. Dreams in Kotlin.
                                                     
-              \u250C\u2500\u2500\u2500 repeat \u221E \u2500\u2500\u2500\u2510
-              \u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518
+              ┌─── repeat ∞ ───┐
+              └────────────────┘
 ```
 
 ---
 
-## \U0001F91D Let's Connect \u2014 *"My DMs are open, unlike your bootloader"*
+## 🤝 Let's Connect — *"My DMs are open, unlike your bootloader"*
 
 <div align="center">
 
@@ -247,9 +247,9 @@ const arvind = {
 
 <br/><br/>
 
-### \U0001F4A1 Open Source Contributions Welcome!
+### 💡 Open Source Contributions Welcome!
 *If you want to collaborate on any project, just open a PR.*
-*I review code like I review food \u2014 thoroughly, with strong opinions, and a lot of chai.*
+*I review code like I review food — thoroughly, with strong opinions, and a lot of chai.*
 
 <br/>
 
@@ -261,18 +261,18 @@ const arvind = {
 
 <div align="center">
 
-### \U0001F3F7\uFE0F Fun Facts About Me
+### 🏷️ Fun Facts About Me
 
 | Fact | Reality |
 |------|---------|
-| First PR | [Native OEM Face Unlock](https://github.com/hxreborn/biometric-app-lock/pull/50) \u2014 Merged \u2705 |
-| Side Projects | 54 repos. All "almost done" \U0001F643 |
-| Debugging Strategy | `console.log("HERE")` \u00D7 47 |
-| Favorite Error | `It works on my machine` \U0001F937\u200D\u2642\uFE0F |
+| First PR | [Native OEM Face Unlock](https://github.com/hxreborn/biometric-app-lock/pull/50) — Merged ✅ |
+| Side Projects | 54 repos. All "almost done" 🙃 |
+| Debugging Strategy | `console.log("HERE")` × 47 |
+| Favorite Error | `It works on my machine` 🤷‍♂️ |
 | Sleep Schedule | `cron: 0 4 * * *` (4 AM, daily, non-negotiable) |
-| Coffee vs Chai | *"Choose chai or choose wrong"* \u2615 |
-| Code Review Style | "Looks good" \u2192 *Changes 47 files anyway* |
-| Backup Strategy | Jigar-Backup, obviously. *I eat my own dogfood* \U0001F436 |
+| Coffee vs Chai | *"Choose chai or choose wrong"* ☕ |
+| Code Review Style | "Looks good" → *Changes 47 files anyway* |
+| Backup Strategy | Jigar-Backup, obviously. *I eat my own dogfood* 🐶 |
 
 </div>
 
@@ -284,12 +284,12 @@ const arvind = {
 
 <br/>
 
-**\u2B50 If you like what you see, smash that star button like it owes you money \u2B50**
+**⭐ If you like what you see, smash that star button like it owes you money ⭐**
 
-<sub>\U0001F1EE\U0001F1F3 Crafted with \u2764\uFE0F, chai \u2615, and an unhealthy amount of determination from India</sub>
+<sub>🇮🇳 Crafted with ❤️, chai ☕, and an unhealthy amount of determination from India</sub>
 
-<sub>*"Perfection is not attainable, but if we chase perfection, we can catch excellence." \u2014 Vince Lombardi*</sub>
+<sub>*"Perfection is not attainable, but if we chase perfection, we can catch excellence." — Vince Lombardi*</sub>
 
-<sub>*"Also, always root your phone." \u2014 Arvind Ji*</sub>
+<sub>*"Also, always root your phone." — Arvind Ji*</sub>
 
 </div>
