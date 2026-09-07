@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF9933,100:138808&height=220&section=header&text=Arvind%20Ji&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=The%20Perfectionist%20%F0%9F%8E%AF&descAlignY=55&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:FF9933,100:138808&height=220&section=header&text=Arvind%20Ji&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%87%AE%F0%9F%87%B3+Made+in+India.+Debugged+Everywhere.;%E2%9A%A1+If+your+phone+isn't+rooted%2C+you+don't+own+it.;%F0%9F%94%A5+Fueled+by+Chai%2C+Powered+by+Commits.;%F0%9F%9B%A0%EF%B8%8F+Breaking+things+in+Production+since+2024." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FF9933&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer;Android+Power+User;Root+Enthusiast;AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -149,17 +149,17 @@ const arvind = {
 
 ### Languages I Speak (Besides Hindi & Sarcasm)
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,dart,cpp,cs,powershell,html,css&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,typescript,javascript,python,dart,cpp,cs,powershell,html,css&theme=dark&perline=11" alt="Languages"/>
 </p>
 
 ### Frameworks & Tools That Keep Me Up at Night
 <p>
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,nodejs,firebase,supabase,git,github,githubactions,docker&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,nodejs,firebase,supabase,git,github,githubactions,docker&theme=dark&perline=11" alt="Frameworks"/>
 </p>
 
 ### The "I Know This Too" Section
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,linux,bash,gradle,sqlite,mongodb,cloudflare,vercel,tailwind,materialui&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux,bash,gradle,sqlite,mongodb,cloudflare,vercel,tailwind,materialui&theme=dark&perline=11" alt="Tools"/>
 </p>
 
 </div>
@@ -170,12 +170,12 @@ const arvind = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=official-Arvind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&icon_color=FF6B35&text_color=c9d1d9&ring_color=138808&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=official-Arvind&theme=radical&hide_border=true&background=0d1117&stroke=FF9933&ring=FF9933&fire=FF6B35&currStreakLabel=FF9933&sideLabels=FF9933&dates=555555" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=official-Arvind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&icon_color=FF6B35&text_color=ffffff&ring_color=FF9933" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=official-Arvind&theme=radical&hide_border=true&background=0d1117&stroke=FF9933&ring=FF9933&fire=FF6B35&currStreakLabel=FF9933" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-Arvind&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-Arvind&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=ffffff" alt="Top Languages"/>
 
 </div>
 
@@ -204,7 +204,7 @@ const arvind = {
 ## 📈 Contribution Graph — *"Every Green Square = One Less Hour of Sleep"*
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=official-Arvind&bg_color=0d1117&color=FF9933&line=FF6B35&point=138808&area=true&area_color=FF993333&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=official-Arvind&bg_color=0d1117&color=FF9933&line=FF6B35&point=138808&area=true&area_color=FF993333&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -227,7 +227,7 @@ const arvind = {
 11:00 PM  🌙  "Just one more commit..."
 03:00 AM  😵  Still coding. Chai count: ████████ 8
 04:00 AM  💤  Falls asleep on keyboard. Dreams in Kotlin.
-                                                    
+
               ┌─── repeat ∞ ───┐
               └────────────────┘
 ```
