@@ -11,7 +11,7 @@
 <br/>
 
 <!-- PROFILE BADGES ROW -->
-<a href="https://github.com/official-Arvind?tab=repositories"><img src="https://img.shields.io/badge/54+_Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
+<a href="https://github.com/official-Arvind?tab=repositories"><img src="https://img.shields.io/badge/Open_Source_Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 <a href="https://github.com/official-Arvind?tab=followers"><img src="https://img.shields.io/github/followers/official-Arvind?style=for-the-badge&logo=github&color=FF6B35&labelColor=1a1a2e" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=official-Arvind&style=for-the-badge&color=138808&label=PROFILE+STALKERS" alt="Profile Views"/>
 <a href="mailto:itz.arvindji@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-FF9933?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -79,6 +79,8 @@ const arvind = {
 ### 🔒 Security & Root
 | Project | What it Does |
 |---------|-------------|
+| [**redmi-note-12-pro-5g-ruby**](https://github.com/official-Arvind/redmi-note-12-pro-5g-ruby) | Reverse engineering knowledge base & developer reference for Redmi Note 12 Pro 5G |
+| [**ruby-camera-4k60**](https://github.com/official-Arvind/ruby-camera-4k60) | ⚡ Xposed/LSPosed module unlocking 4K 60FPS video recording |
 | [**biometric-app-lock**](https://github.com/official-Arvind/biometric-app-lock) | Xposed module for biometric app locking — *contributed native OEM face unlock for Samsung & Xiaomi* |
 | [**Zygisk-Assistant**](https://github.com/official-Arvind/Zygisk-Assistant) | Hide root from nosy apps. *They'll never know.* |
 | [**Morphe-AutoBuilds**](https://github.com/official-Arvind/Morphe-AutoBuilds) | Auto-builds Morphe APKs & modules every 24hrs. *CI/CD but make it spicy* 🌶️ |
@@ -91,7 +93,7 @@ const arvind = {
 |---------|-------------|
 | [**Jigar-Backup**](https://github.com/official-Arvind/Jigar-Backup) | God Mode backup suite with Zstandard compression & SMB sync. *Backup so fast it's illegal* ⚡ |
 | [**jigar-tools**](https://github.com/official-Arvind/jigar-tools) | The world's most aggressive backup & restore suite. *Free forever, fast forever* |
-| [**Fucking-Fast-Downloader**](https://github.com/official-Arvind/Fucking-Fast-Downloader) | It's in the name. *No further explanation needed* 🚀 |
+| [**Fucking-Fast-Downloader**](https://github.com/official-Arvind/Fucking-Fast-Downloader) | High-speed multi-threaded downloader with GUI. *No further explanation needed* 🚀 |
 
 </td>
 </tr>
@@ -101,9 +103,11 @@ const arvind = {
 ### 🤖 AI & Automation
 | Project | What it Does |
 |---------|-------------|
-| [**instagram-mcp**](https://github.com/official-Arvind/instagram-mcp) | ⭐ 68+ tools MCP Server for Instagram via AI agents. *4 stars and counting!* |
+| [**instagram-mcp**](https://github.com/official-Arvind/instagram-mcp) | ⭐ 68+ tools MCP Server for Instagram via AI agents. FastMCP + instagrapi |
+| [**uni-web-agent**](https://github.com/official-Arvind/uni-web-agent) | The Universal Hybrid Declarative Web Agent — autonomous AI browser navigation & automation |
 | [**director-ai**](https://github.com/official-Arvind/director-ai) | Dual-AI storytelling app powered by Gemini. *When one AI isn't enough* |
-| [**docpurge-ai**](https://github.com/official-Arvind/docpurge-ai) | Surgical PDF watermark removal. *100% browser-native. Zero uploads.* |
+| [**docpurge-ai**](https://github.com/official-Arvind/docpurge-ai) | Surgical PDF watermark removal suite. *100% browser-native. Zero uploads.* |
+| [**instagram-bot**](https://github.com/official-Arvind/instagram-bot) | Autonomous Instagram content scouting and scheduled publishing CLI engine |
 
 </td>
 <td width="50%" valign="top">
@@ -111,9 +115,10 @@ const arvind = {
 ### 🎵 Media & Apps
 | Project | What it Does |
 |---------|-------------|
+| [**Blossom**](https://github.com/official-Arvind/Blossom) | Feature-rich YouTube frontend for Android with Gemini AI integration |
 | [**Musify**](https://github.com/official-Arvind/Musify) | YouTube Music client for Android. *Because premium is overrated* 🎶 |
-| [**Metrolist_X**](https://github.com/official-Arvind/Metrolist_X) | Enhanced YouTube Music frontend. *Same vibe, extra features* |
 | [**UPIPaymentAlert**](https://github.com/official-Arvind/UPIPaymentAlert) | Auto UPI voice announcements. *"Paytm se ₹500 aaya hai!"* 📢 |
+| [**CameraTools**](https://github.com/official-Arvind/CameraTools) | All-in-one camera utility suite for Android |
 
 </td>
 </tr>
@@ -126,16 +131,18 @@ const arvind = {
 | [**PhoneSpeakerMic**](https://github.com/official-Arvind/PhoneSpeakerMic) | Use phone as PC mic & speaker — 5ms latency! *Your phone is now a sound card* 🎙️ |
 | [**WIN-B_M**](https://github.com/official-Arvind/WIN-B_M) | Custom Windows boot logo engine with matrix rain animation. *Because default is boring* |
 | [**GalaxyBudsClient**](https://github.com/official-Arvind/GalaxyBudsClient) | Free compiled Android APKs for Galaxy Buds management |
+| [**Amazon**](https://github.com/official-Arvind/Amazon) | ZONIX — Curated dark-aesthetic minimalist luxury e-commerce storefront |
+| [**cutecats**](https://github.com/official-Arvind/cutecats) | Retro pixel interactive web audio & visual experience with synced lyrics |
 
 </td>
 <td width="50%" valign="top">
 
-### 🌟 Dream Projects
+### 🌟 Dream Projects & Systems
 | Project | What it Does |
 |---------|-------------|
-| **Vision-OS** | 🔐 *The Dream Project* — something big is cooking... |
-| **Crown-Face** | 🔐 AI-powered facial feature analysis for perfect hairstyle recommendations |
-| **3d-Home** | 🔐 Experience & customize your home in full 3D |
+| [**Vision-OS**](https://github.com/official-Arvind/Vision-OS) | 🔐 *The Dream Project* — Web-based Spatial Operating System concept |
+| [**IndoorMap3D**](https://github.com/official-Arvind/IndoorMap3D) | AR-based 3D Indoor Mapping and spatial scanning Android client |
+| [**RojgarDirect**](https://github.com/official-Arvind/RojgarDirect) | Direct employment platform connecting job seekers with FastAPI & React |
 
 </td>
 </tr>
@@ -170,21 +177,13 @@ const arvind = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=official-Arvind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&icon_color=FF6B35&text_color=ffffff&ring_color=FF9933" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=official-Arvind&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&icon_color=FF6B35&text_color=ffffff&ring_color=FF9933" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=official-Arvind&theme=radical&hide_border=true&background=0d1117&stroke=FF9933&ring=FF9933&fire=FF6B35&currStreakLabel=FF9933" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=official-Arvind&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=ffffff" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=official-Arvind&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF9933&text_color=ffffff" alt="Top Languages"/>
 
-</div>
-
----
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=official-Arvind&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -197,14 +196,6 @@ const arvind = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/official-Arvind/official-Arvind/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/official-Arvind/official-Arvind/output/github-snake-dark.svg" />
 </picture>
-</div>
-
----
-
-## 📈 Contribution Graph — *"Every Green Square = One Less Hour of Sleep"*
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=official-Arvind&bg_color=0d1117&color=FF9933&line=FF6B35&point=138808&area=true&area_color=FF993333&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
